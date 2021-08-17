@@ -1,6 +1,6 @@
 ## Olá. Me chame de Ghost 👨‍💻
 
-- 👾🐍 Pythonista
+- 🐍 Pythonista
 - 📚 Estudando Python
 - 💻 Quando tudo está errado e confuso, apague tudo e recomece do zero.
 
