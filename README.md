@@ -26,3 +26,4 @@
     <br>
  
  
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoooooostdevlayout=compact&theme=dracula)
