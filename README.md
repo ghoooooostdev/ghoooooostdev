@@ -2,7 +2,7 @@
 
 - 🐍 Pythonista
 - 📚 Estudando Python
-- 💻 Quando tudo está errado e confuso, apague tudo e recomece do zero.
+- 💻 Quando tudo está errado e confuso, apague tudo e recomece do zero...
 
 
  <div>
