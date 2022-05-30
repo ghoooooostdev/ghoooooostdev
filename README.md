@@ -1,7 +1,7 @@
 ## Olá. Me chame de Ghost 👨‍💻
 
 - 🐍 Pythonista
-- 📚 Estudando Python
+- 📚 Estudando Python, HTML e Js.
 - 💻 Quando tudo está errado e confuso, apague tudo e recomece do zero...
 
 
