@@ -2,7 +2,7 @@
 
 - 🐍 Pythonista
 - 📚 Estudando Python, HTML e Js.
-- 💻 Quando tudo está errado e confuso, apague tudo e recomece do zero...
+- 💻 Quando tudo está errado e confuso, apague e recomece do zero...
 
 
  <div>
@@ -21,8 +21,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  ##
-<img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
-<h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
-    <br>
- 
  
